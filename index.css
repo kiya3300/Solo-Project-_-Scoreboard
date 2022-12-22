@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background: #1B244A;
+    margin: 0;
+    text-align: center;  
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin: 1px;
+    color: #F94F6D;
+}
+button {
+    background: none;
+}
